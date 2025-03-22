@@ -37,7 +37,7 @@ accent_color: rgb(231, 209, 28)
 
 menu:
   - title: Blog
-    url:   /blog/
+    url:   /_posts/
   - title: Projects
     url:   /projects/
   - title: Resume
