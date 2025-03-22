@@ -33,12 +33,15 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+paginate:      10
+paginate_path: '/index.html/'
+
 accent_image: none
 accent_color: rgb(231, 209, 28)
 
 menu:
   - title: Blog
-    url:   /posts/
+    url:   /index.html/
   - title: Projects
     url:   /projects/
   - title: Resume
