@@ -31,13 +31,14 @@ instagram_username: musciale
 theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
+  - jekyll-paginate
 
 accent_image: none
 accent_color: rgb(231, 209, 28)
 
 menu:
   - title: Blog
-    url:   /_posts/
+    url:   /_posts/home
   - title: Projects
     url:   /projects/
   - title: Resume
